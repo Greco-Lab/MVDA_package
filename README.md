@@ -4,6 +4,8 @@ Multi-view clustering methodology in which the information from different data l
 
 Reference Paper: Serra, A., Fratello, M., Fortino, V., Raiconi, G., Tagliaferri, R., & Greco, D. (2015). MVDA: a multi-view genomic data integration methodology. BMC bioinformatics, 16(1), 261. ISO 690
 
+More information a: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0680-3
+
 ```R
 
 #Installation instruction from GitHub
